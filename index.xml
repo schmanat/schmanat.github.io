@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>schman.at</title>
+    <link>https://schman.at/</link>
+    <description>Recent content on schman.at</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <atom:link href="https://schman.at/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Über mich</title>
+      <link>https://schman.at/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://schman.at/about/</guid>
+      <description>
+
+&lt;p&gt;Mein Name ist Manuel Schneider und lebe in Dornbirn.&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://schman.at/schman/images/me.jpg&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Manuel Schneider&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;h2 id=&#34;laufbahn&#34;&gt;Laufbahn&lt;/h2&gt;
+
+&lt;p&gt;Beruflich: habe ich die Lehr als EDV Techniker abgeschlossen und bin Sysadministrator beim Amt der Stadt Dornbirn&lt;/p&gt;
+
+&lt;h2 id=&#34;technik&#34;&gt;Technik&lt;/h2&gt;
+
+&lt;p&gt;Das Blog wird mittels &lt;a href=&#34;//gohugo.io&#34;&gt;Hugo&lt;/a&gt; betrieben. Die Inhalte werden anschließend statisch auf den Webserver von &lt;a href=&#34;//uberspace.de&#34;&gt;uberspace&lt;/a&gt; ausgeliefert.
+Das SSL Zertifikat wird via &lt;a href=&#34;https://letsencrypt.org/&#34;&gt;Let&amp;rsquo;s Encrypt&lt;/a&gt; bereitgestellt.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
